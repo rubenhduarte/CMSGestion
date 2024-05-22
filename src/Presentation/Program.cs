@@ -1,3 +1,5 @@
+using CMSMicroservice.Infrastructure.Identity;
+using CMSMicroservice.Infrastructure.Persistence;
 using Microsoft.AspNetCore.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
